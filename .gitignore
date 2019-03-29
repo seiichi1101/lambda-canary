@@ -1,0 +1,4 @@
+.aws-sam
+event.json
+Makefile
+packaged.yml
